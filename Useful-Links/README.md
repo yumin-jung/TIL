@@ -4,7 +4,8 @@
 - [Fontawesome.com](https://fontawesome.com/): Use free icon
 - [Dillinger.io](https://dillinger.io/): Markdown preview
 - [Carbon.io](https://carbon.now.sh/): Source code image
-- [한글입숨](https://hangul.thefron.me/): K - lorem ipsum
+- [한글입숨](https://hangul.thefron.me/): 한글 lorem ipsum
+- [Mac 재설정](http://buttumac.com/post/372/): NVRAM 재설정
 
 ## For me 
 - [Frontend Developer](https://blog.toss.im/article/toss-frontend-chapter): Keep in mind 🌱
