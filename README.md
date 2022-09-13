@@ -1,4 +1,4 @@
-# Today I Learned 🌱
+# Today I Learned 🙂
 ## Contents
 * [Markdown](https://github.com/yumin-jung/TIL/tree/main/Markdown) 
 * [Git](https://github.com/yumin-jung/TIL/tree/main/Git)
